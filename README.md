@@ -1,5 +1,5 @@
 #                                                             Building Artifical Neural Networks step by step from scratch
-### Inroduction :- 
+### Introduction :- 
 If u wondering how ANN works or what are the steps to build it then this repository will help to gain insight of ANN.It start from building small one node ANN or 
 Logistic Regression to building multi layer ANN binary classifier.I used Cat and Non Cat image datasets to train model and build it.<br>
 
